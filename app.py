@@ -16,8 +16,6 @@ import streamlit as st
 #from streamlit_option_menu import streamlit_option_menu
 from streamlit.components.v1 import html
 import pandas as pd
-import plotly.graph_objects as go
-from plotly.subplots import make_subplots
 import plotly.express as px
 from labor_story import expander_labor
 from trade_story import expander_trade
