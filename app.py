@@ -10,7 +10,7 @@ st.set_page_config(page_title="Dashboard", page_icon=":bar_chart:", layout="wide
 
 # In[105]:
 import requests
-import eurostat
+#import eurostat
 import pandas as pd
 import streamlit as st
 from streamlit_option_menu import option_menu
