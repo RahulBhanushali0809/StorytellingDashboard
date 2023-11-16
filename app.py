@@ -13,7 +13,7 @@ import requests
 #import eurostat
 import pandas as pd
 import streamlit as st
-from streamlit_option_menu import option_menu
+from streamlit_option_menu import streamlit_option_menu
 from streamlit.components.v1 import html
 import pandas as pd
 from ipyvizzu import Chart, Data, Config, Style
