@@ -10,8 +10,6 @@ st.set_page_config(page_title="Dashboard", page_icon=":bar_chart:", layout="wide
 
 # In[105]:
 import requests
-from streamlit_lottie import st_lottie
-from streamlit_lottie import st_lottie_spinner
 import eurostat
 import pandas as pd
 import streamlit as st
