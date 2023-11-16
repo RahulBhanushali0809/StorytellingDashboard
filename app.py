@@ -16,12 +16,9 @@ import streamlit as st
 #from streamlit_option_menu import streamlit_option_menu
 from streamlit.components.v1 import html
 import pandas as pd
-from ipyvizzu import Chart, Data, Config, Style
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import plotly.express as px
-from ipyvizzu import Chart, Data, Config, Style, DisplayTarget
-from ipyvizzustory import Story, Slide, Step
 from labor_story import expander_labor
 from trade_story import expander_trade
 from economy_story import expander_economy
